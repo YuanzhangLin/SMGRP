@@ -1,0 +1,7 @@
+{
+  "task_id": "closed_source.via_browser.task4",
+  "app_id": "via_browser",
+  "instruction": "Disable WebRTC in Via Browser.",
+  "ui_map": "ui_map.json",
+  "apk": "via-browser-7.3.3.apk"
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "app_id": "via_browser",
+  "package_name": "mark.via.gp",
+  "version_name": "7.3.3",
+  "activity_details": {
+    "Home page": {
+      "elements": [
+        {"content_description": "Menu", "effect": "Open the browser menu."}
+      ],
+      "transitions": ["Browser menu"]
+    },
+    "Browser menu": {
+      "elements": [
+        {"text": "Settings", "effect": "Open Via settings."}
+      ],
+      "transitions": ["Settings"]
+    },
+    "Settings": {
+      "elements": [
+        {"text": "General"},
+        {"text": "Customization"},
+        {"text": "Privacy", "effect": "Open privacy settings."},
+        {"text": "Advanced", "effect": "Open advanced settings."},
+        {"text": "Scripts"},
+        {"text": "About"}
+      ],
+      "transitions": ["Privacy", "Advanced"]
+    },
+    "Privacy": {
+      "elements": [
+        {"text": "Do not track", "action": "Toggle checkbox"},
+        {"text": "Disable WebRTC", "action": "Toggle checkbox"},
+        {"text": "Do not sell or share data", "action": "Toggle checkbox"}
+      ]
+    },
+    "Advanced": {
+      "elements": [
+        {"text": "Save data", "action": "Toggle checkbox", "summary": "Enable data-savings mode on compatible websites"},
+        {"text": "Show sniffer button automatically", "action": "Toggle checkbox"},
+        {"text": "Enable webpage debugging", "action": "Toggle checkbox"},
+        {"text": "Disable Custom Tabs", "action": "Toggle checkbox"},
+        {"text": "Ignore SSL certificate warnings", "action": "Toggle checkbox"}
+      ]
+    }
+  },
+  "observed_relations": [
+    "The home-page Menu opens Settings. Settings contains separate Privacy and Advanced sections.",
+    "The listed settings are checkbox rows in the observed Android UI; selecting a row changes its checked state."
+  ],
+  "provenance": {
+    "source": "App-wide union of visible labels and checkbox roles from the frozen Via Browser UI hierarchy captures, without task-specific action trajectories or evaluator state.",
+    "home_and_navigation": "artifacts/execution/closed-source-via-browser-pilot/private_apps/via_browser/closed_source.via_browser.task1/canonical/{00-start,01-menu,02-settings}.xml",
+    "advanced": "artifacts/execution/closed-source-via-browser-pilot/private_apps/via_browser/closed_source.via_browser.task1/canonical/03-advanced.xml",
+    "privacy": "artifacts/execution/closed-source-via-browser-pilot/private_apps/via_browser/closed_source.via_browser.task3/canonical/03-privacy.xml",
+    "device_profile": "GUIStudy3_API25 / Android 7.1.1 / en-US"
+  }
+}
