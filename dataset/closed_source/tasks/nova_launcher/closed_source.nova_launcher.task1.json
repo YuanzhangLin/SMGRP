@@ -1,0 +1,13 @@
+{
+  "schema_version": "guistudy_closed_source_task_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.nova_launcher.task1",
+  "app_id": "nova_launcher",
+  "package_name": "com.teslacoilsw.launcher",
+  "app_version": "8.8.8",
+  "apk_sha256": "8de5bc8aa0654bf7b7f6abdf09f0c1f2a0c631744d4f37164ced0032b44f22ba",
+  "instruction": "Set app-drawer icons to 110% without changing the icon size on the Home screen.",
+  "instruction_zh": "将应用抽屉中的图标大小设置为 110%，不要改变主屏幕上的图标大小。",
+  "gt_trajectory": "nova_launcher/closed_source.nova_launcher.task1.json",
+  "gt_step_count": 4
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "guistudy_closed_source_gt_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.poweramp.task4",
+  "app_id": "poweramp",
+  "package_name": "com.maxmpz.audioplayer",
+  "app_version": "2.0.10-build-860589-x86-play",
+  "apk_sha256": "448372ee3de9be878fc91771e7b419eb501134072a79e2d270eb7cc4e4765270",
+  "instruction": "Do not resume playback automatically after a phone call in Poweramp.",
+  "instruction_zh": "关闭 Poweramp 在通话结束后自动继续播放。",
+  "step_count": 6,
+  "actions": [
+    {
+      "index": 1,
+      "action": "Open the player menu."
+    },
+    {
+      "index": 2,
+      "action": "Open Poweramp settings."
+    },
+    {
+      "index": 3,
+      "action": "Open Audio settings."
+    },
+    {
+      "index": 4,
+      "action": "Open Audio Focus settings."
+    },
+    {
+      "index": 5,
+      "action": "Disable resuming after calls."
+    },
+    {
+      "index": 6,
+      "action": "Leave the preference page so Poweramp commits the change."
+    }
+  ]
+}

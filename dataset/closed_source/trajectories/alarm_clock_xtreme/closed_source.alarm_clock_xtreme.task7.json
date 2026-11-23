@@ -1,0 +1,42 @@
+{
+  "schema_version": "guistudy_closed_source_gt_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.alarm_clock_xtreme.task7",
+  "app_id": "alarm_clock_xtreme",
+  "package_name": "com.alarmclock.xtreme.free",
+  "app_version": "24.16.4",
+  "apk_sha256": "bdf42371b7a2f7b0cc3aeba81d51f984a57d3011e2bff0e488dce56d41556026",
+  "instruction": "Prevent volume changes while the GT Locked Volume alarm is ringing.",
+  "instruction_zh": null,
+  "step_count": 7,
+  "actions": [
+    {
+      "index": 1,
+      "action": "open the prepared alarm list"
+    },
+    {
+      "index": 2,
+      "action": "scroll the alarm list to the named fixture"
+    },
+    {
+      "index": 3,
+      "action": "open the named alarm"
+    },
+    {
+      "index": 4,
+      "action": "open per-alarm Sound settings"
+    },
+    {
+      "index": 5,
+      "action": "toggle Allow mid-alarm volume changes"
+    },
+    {
+      "index": 6,
+      "action": "return to alarm editor"
+    },
+    {
+      "index": 7,
+      "action": "save the named alarm"
+    }
+  ]
+}

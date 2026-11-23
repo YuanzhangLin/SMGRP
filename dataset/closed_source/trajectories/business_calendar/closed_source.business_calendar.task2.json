@@ -1,0 +1,30 @@
+{
+  "schema_version": "guistudy_closed_source_gt_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.business_calendar.task2",
+  "app_id": "business_calendar",
+  "package_name": "netgenius.bizcal",
+  "app_version": "1.6.1.5",
+  "apk_sha256": "ec0af745d94712659af4d9d467cc3c9c62a78a93781a8d75d318abbd3e6cb27b",
+  "instruction": "Show up to four all-day event bars in Month view.",
+  "instruction_zh": "在月视图中最多显示 4 条全天事件。",
+  "step_count": 4,
+  "actions": [
+    {
+      "index": 1,
+      "action": "Open More options."
+    },
+    {
+      "index": 2,
+      "action": "Open Settings."
+    },
+    {
+      "index": 3,
+      "action": "Open All Day Events in Bar View."
+    },
+    {
+      "index": 4,
+      "action": "Select show up to 4 bars."
+    }
+  ]
+}

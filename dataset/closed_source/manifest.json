@@ -1,0 +1,489 @@
+{
+  "schema_version": "guistudy_closed_source_gt_manifest_v1",
+  "dataset": "ClosedSource",
+  "application_count": 12,
+  "task_count": 60,
+  "contents": "Task definitions and action-only ground-truth trajectories. No APKs, screenshots, UI hierarchies, or internal source paths.",
+  "tasks": [
+    {
+      "task_id": "closed_source.alarm_clock_xtreme.task1",
+      "app_id": "alarm_clock_xtreme",
+      "app_version": "24.16.4",
+      "step_count": 6,
+      "file": "trajectories/alarm_clock_xtreme/closed_source.alarm_clock_xtreme.task1.json",
+      "task_file": "tasks/alarm_clock_xtreme/closed_source.alarm_clock_xtreme.task1.json"
+    },
+    {
+      "task_id": "closed_source.alarm_clock_xtreme.task6",
+      "app_id": "alarm_clock_xtreme",
+      "app_version": "24.16.4",
+      "step_count": 7,
+      "file": "trajectories/alarm_clock_xtreme/closed_source.alarm_clock_xtreme.task6.json",
+      "task_file": "tasks/alarm_clock_xtreme/closed_source.alarm_clock_xtreme.task6.json"
+    },
+    {
+      "task_id": "closed_source.alarm_clock_xtreme.task7",
+      "app_id": "alarm_clock_xtreme",
+      "app_version": "24.16.4",
+      "step_count": 7,
+      "file": "trajectories/alarm_clock_xtreme/closed_source.alarm_clock_xtreme.task7.json",
+      "task_file": "tasks/alarm_clock_xtreme/closed_source.alarm_clock_xtreme.task7.json"
+    },
+    {
+      "task_id": "closed_source.alarm_clock_xtreme.task9",
+      "app_id": "alarm_clock_xtreme",
+      "app_version": "24.16.4",
+      "step_count": 10,
+      "file": "trajectories/alarm_clock_xtreme/closed_source.alarm_clock_xtreme.task9.json",
+      "task_file": "tasks/alarm_clock_xtreme/closed_source.alarm_clock_xtreme.task9.json"
+    },
+    {
+      "task_id": "closed_source.alarm_clock_xtreme.task10",
+      "app_id": "alarm_clock_xtreme",
+      "app_version": "24.16.4",
+      "step_count": 10,
+      "file": "trajectories/alarm_clock_xtreme/closed_source.alarm_clock_xtreme.task10.json",
+      "task_file": "tasks/alarm_clock_xtreme/closed_source.alarm_clock_xtreme.task10.json"
+    },
+    {
+      "task_id": "closed_source.business_calendar.task1",
+      "app_id": "business_calendar",
+      "app_version": "1.6.1.5",
+      "step_count": 4,
+      "file": "trajectories/business_calendar/closed_source.business_calendar.task1.json",
+      "task_file": "tasks/business_calendar/closed_source.business_calendar.task1.json"
+    },
+    {
+      "task_id": "closed_source.business_calendar.task2",
+      "app_id": "business_calendar",
+      "app_version": "1.6.1.5",
+      "step_count": 4,
+      "file": "trajectories/business_calendar/closed_source.business_calendar.task2.json",
+      "task_file": "tasks/business_calendar/closed_source.business_calendar.task2.json"
+    },
+    {
+      "task_id": "closed_source.business_calendar.task3",
+      "app_id": "business_calendar",
+      "app_version": "1.6.1.5",
+      "step_count": 4,
+      "file": "trajectories/business_calendar/closed_source.business_calendar.task3.json",
+      "task_file": "tasks/business_calendar/closed_source.business_calendar.task3.json"
+    },
+    {
+      "task_id": "closed_source.business_calendar.task4",
+      "app_id": "business_calendar",
+      "app_version": "1.6.1.5",
+      "step_count": 4,
+      "file": "trajectories/business_calendar/closed_source.business_calendar.task4.json",
+      "task_file": "tasks/business_calendar/closed_source.business_calendar.task4.json"
+    },
+    {
+      "task_id": "closed_source.business_calendar.task5",
+      "app_id": "business_calendar",
+      "app_version": "1.6.1.5",
+      "step_count": 3,
+      "file": "trajectories/business_calendar/closed_source.business_calendar.task5.json",
+      "task_file": "tasks/business_calendar/closed_source.business_calendar.task5.json"
+    },
+    {
+      "task_id": "closed_source.colornote.task1",
+      "app_id": "colornote",
+      "app_version": "4.8.6",
+      "step_count": 23,
+      "file": "trajectories/colornote/closed_source.colornote.task1.json",
+      "task_file": "tasks/colornote/closed_source.colornote.task1.json"
+    },
+    {
+      "task_id": "closed_source.colornote.task2",
+      "app_id": "colornote",
+      "app_version": "4.8.6",
+      "step_count": 4,
+      "file": "trajectories/colornote/closed_source.colornote.task2.json",
+      "task_file": "tasks/colornote/closed_source.colornote.task2.json"
+    },
+    {
+      "task_id": "closed_source.colornote.task3",
+      "app_id": "colornote",
+      "app_version": "4.8.6",
+      "step_count": 4,
+      "file": "trajectories/colornote/closed_source.colornote.task3.json",
+      "task_file": "tasks/colornote/closed_source.colornote.task3.json"
+    },
+    {
+      "task_id": "closed_source.colornote.task4",
+      "app_id": "colornote",
+      "app_version": "4.8.6",
+      "step_count": 3,
+      "file": "trajectories/colornote/closed_source.colornote.task4.json",
+      "task_file": "tasks/colornote/closed_source.colornote.task4.json"
+    },
+    {
+      "task_id": "closed_source.colornote.task5",
+      "app_id": "colornote",
+      "app_version": "4.8.6",
+      "step_count": 6,
+      "file": "trajectories/colornote/closed_source.colornote.task5.json",
+      "task_file": "tasks/colornote/closed_source.colornote.task5.json"
+    },
+    {
+      "task_id": "closed_source.cx_file_explorer.task1",
+      "app_id": "cx_file_explorer",
+      "app_version": "2.7.8",
+      "step_count": 4,
+      "file": "trajectories/cx_file_explorer/closed_source.cx_file_explorer.task1.json",
+      "task_file": "tasks/cx_file_explorer/closed_source.cx_file_explorer.task1.json"
+    },
+    {
+      "task_id": "closed_source.cx_file_explorer.task2",
+      "app_id": "cx_file_explorer",
+      "app_version": "2.7.8",
+      "step_count": 4,
+      "file": "trajectories/cx_file_explorer/closed_source.cx_file_explorer.task2.json",
+      "task_file": "tasks/cx_file_explorer/closed_source.cx_file_explorer.task2.json"
+    },
+    {
+      "task_id": "closed_source.cx_file_explorer.task3",
+      "app_id": "cx_file_explorer",
+      "app_version": "2.7.8",
+      "step_count": 4,
+      "file": "trajectories/cx_file_explorer/closed_source.cx_file_explorer.task3.json",
+      "task_file": "tasks/cx_file_explorer/closed_source.cx_file_explorer.task3.json"
+    },
+    {
+      "task_id": "closed_source.cx_file_explorer.task4",
+      "app_id": "cx_file_explorer",
+      "app_version": "2.7.8",
+      "step_count": 4,
+      "file": "trajectories/cx_file_explorer/closed_source.cx_file_explorer.task4.json",
+      "task_file": "tasks/cx_file_explorer/closed_source.cx_file_explorer.task4.json"
+    },
+    {
+      "task_id": "closed_source.cx_file_explorer.task5",
+      "app_id": "cx_file_explorer",
+      "app_version": "2.7.8",
+      "step_count": 4,
+      "file": "trajectories/cx_file_explorer/closed_source.cx_file_explorer.task5.json",
+      "task_file": "tasks/cx_file_explorer/closed_source.cx_file_explorer.task5.json"
+    },
+    {
+      "task_id": "closed_source.nova_launcher.task1",
+      "app_id": "nova_launcher",
+      "app_version": "8.8.8",
+      "step_count": 4,
+      "file": "trajectories/nova_launcher/closed_source.nova_launcher.task1.json",
+      "task_file": "tasks/nova_launcher/closed_source.nova_launcher.task1.json"
+    },
+    {
+      "task_id": "closed_source.nova_launcher.task2",
+      "app_id": "nova_launcher",
+      "app_version": "8.8.8",
+      "step_count": 4,
+      "file": "trajectories/nova_launcher/closed_source.nova_launcher.task2.json",
+      "task_file": "tasks/nova_launcher/closed_source.nova_launcher.task2.json"
+    },
+    {
+      "task_id": "closed_source.nova_launcher.task3",
+      "app_id": "nova_launcher",
+      "app_version": "8.8.8",
+      "step_count": 7,
+      "file": "trajectories/nova_launcher/closed_source.nova_launcher.task3.json",
+      "task_file": "tasks/nova_launcher/closed_source.nova_launcher.task3.json"
+    },
+    {
+      "task_id": "closed_source.nova_launcher.task4",
+      "app_id": "nova_launcher",
+      "app_version": "8.8.8",
+      "step_count": 5,
+      "file": "trajectories/nova_launcher/closed_source.nova_launcher.task4.json",
+      "task_file": "tasks/nova_launcher/closed_source.nova_launcher.task4.json"
+    },
+    {
+      "task_id": "closed_source.nova_launcher.task5",
+      "app_id": "nova_launcher",
+      "app_version": "8.8.8",
+      "step_count": 5,
+      "file": "trajectories/nova_launcher/closed_source.nova_launcher.task5.json",
+      "task_file": "tasks/nova_launcher/closed_source.nova_launcher.task5.json"
+    },
+    {
+      "task_id": "closed_source.poweramp.task1",
+      "app_id": "poweramp",
+      "app_version": "2.0.10-build-860589-x86-play",
+      "step_count": 6,
+      "file": "trajectories/poweramp/closed_source.poweramp.task1.json",
+      "task_file": "tasks/poweramp/closed_source.poweramp.task1.json"
+    },
+    {
+      "task_id": "closed_source.poweramp.task2",
+      "app_id": "poweramp",
+      "app_version": "2.0.10-build-860589-x86-play",
+      "step_count": 6,
+      "file": "trajectories/poweramp/closed_source.poweramp.task2.json",
+      "task_file": "tasks/poweramp/closed_source.poweramp.task2.json"
+    },
+    {
+      "task_id": "closed_source.poweramp.task3",
+      "app_id": "poweramp",
+      "app_version": "2.0.10-build-860589-x86-play",
+      "step_count": 6,
+      "file": "trajectories/poweramp/closed_source.poweramp.task3.json",
+      "task_file": "tasks/poweramp/closed_source.poweramp.task3.json"
+    },
+    {
+      "task_id": "closed_source.poweramp.task4",
+      "app_id": "poweramp",
+      "app_version": "2.0.10-build-860589-x86-play",
+      "step_count": 6,
+      "file": "trajectories/poweramp/closed_source.poweramp.task4.json",
+      "task_file": "tasks/poweramp/closed_source.poweramp.task4.json"
+    },
+    {
+      "task_id": "closed_source.poweramp.task5",
+      "app_id": "poweramp",
+      "app_version": "2.0.10-build-860589-x86-play",
+      "step_count": 5,
+      "file": "trajectories/poweramp/closed_source.poweramp.task5.json",
+      "task_file": "tasks/poweramp/closed_source.poweramp.task5.json"
+    },
+    {
+      "task_id": "closed_source.procam_x.task1",
+      "app_id": "procam_x",
+      "app_version": "1.26",
+      "step_count": 2,
+      "file": "trajectories/procam_x/closed_source.procam_x.task1.json",
+      "task_file": "tasks/procam_x/closed_source.procam_x.task1.json"
+    },
+    {
+      "task_id": "closed_source.procam_x.task2",
+      "app_id": "procam_x",
+      "app_version": "1.26",
+      "step_count": 2,
+      "file": "trajectories/procam_x/closed_source.procam_x.task2.json",
+      "task_file": "tasks/procam_x/closed_source.procam_x.task2.json"
+    },
+    {
+      "task_id": "closed_source.procam_x.task3",
+      "app_id": "procam_x",
+      "app_version": "1.26",
+      "step_count": 2,
+      "file": "trajectories/procam_x/closed_source.procam_x.task3.json",
+      "task_file": "tasks/procam_x/closed_source.procam_x.task3.json"
+    },
+    {
+      "task_id": "closed_source.procam_x.task4",
+      "app_id": "procam_x",
+      "app_version": "1.26",
+      "step_count": 2,
+      "file": "trajectories/procam_x/closed_source.procam_x.task4.json",
+      "task_file": "tasks/procam_x/closed_source.procam_x.task4.json"
+    },
+    {
+      "task_id": "closed_source.procam_x.task5",
+      "app_id": "procam_x",
+      "app_version": "1.26",
+      "step_count": 2,
+      "file": "trajectories/procam_x/closed_source.procam_x.task5.json",
+      "task_file": "tasks/procam_x/closed_source.procam_x.task5.json"
+    },
+    {
+      "task_id": "closed_source.recorder_eapps.task1",
+      "app_id": "recorder_eapps",
+      "app_version": "2.1.4",
+      "step_count": 4,
+      "file": "trajectories/recorder_eapps/closed_source.recorder_eapps.task1.json",
+      "task_file": "tasks/recorder_eapps/closed_source.recorder_eapps.task1.json"
+    },
+    {
+      "task_id": "closed_source.recorder_eapps.task2",
+      "app_id": "recorder_eapps",
+      "app_version": "2.1.4",
+      "step_count": 4,
+      "file": "trajectories/recorder_eapps/closed_source.recorder_eapps.task2.json",
+      "task_file": "tasks/recorder_eapps/closed_source.recorder_eapps.task2.json"
+    },
+    {
+      "task_id": "closed_source.recorder_eapps.task3",
+      "app_id": "recorder_eapps",
+      "app_version": "2.1.4",
+      "step_count": 5,
+      "file": "trajectories/recorder_eapps/closed_source.recorder_eapps.task3.json",
+      "task_file": "tasks/recorder_eapps/closed_source.recorder_eapps.task3.json"
+    },
+    {
+      "task_id": "closed_source.recorder_eapps.task4",
+      "app_id": "recorder_eapps",
+      "app_version": "2.1.4",
+      "step_count": 3,
+      "file": "trajectories/recorder_eapps/closed_source.recorder_eapps.task4.json",
+      "task_file": "tasks/recorder_eapps/closed_source.recorder_eapps.task4.json"
+    },
+    {
+      "task_id": "closed_source.recorder_eapps.task5",
+      "app_id": "recorder_eapps",
+      "app_version": "2.1.4",
+      "step_count": 4,
+      "file": "trajectories/recorder_eapps/closed_source.recorder_eapps.task5.json",
+      "task_file": "tasks/recorder_eapps/closed_source.recorder_eapps.task5.json"
+    },
+    {
+      "task_id": "closed_source.textra.task1",
+      "app_id": "textra",
+      "app_version": "4.83",
+      "step_count": 5,
+      "file": "trajectories/textra/closed_source.textra.task1.json",
+      "task_file": "tasks/textra/closed_source.textra.task1.json"
+    },
+    {
+      "task_id": "closed_source.textra.task2",
+      "app_id": "textra",
+      "app_version": "4.83",
+      "step_count": 3,
+      "file": "trajectories/textra/closed_source.textra.task2.json",
+      "task_file": "tasks/textra/closed_source.textra.task2.json"
+    },
+    {
+      "task_id": "closed_source.textra.task3",
+      "app_id": "textra",
+      "app_version": "4.83",
+      "step_count": 4,
+      "file": "trajectories/textra/closed_source.textra.task3.json",
+      "task_file": "tasks/textra/closed_source.textra.task3.json"
+    },
+    {
+      "task_id": "closed_source.textra.task4",
+      "app_id": "textra",
+      "app_version": "4.83",
+      "step_count": 3,
+      "file": "trajectories/textra/closed_source.textra.task4.json",
+      "task_file": "tasks/textra/closed_source.textra.task4.json"
+    },
+    {
+      "task_id": "closed_source.textra.task5",
+      "app_id": "textra",
+      "app_version": "4.83",
+      "step_count": 4,
+      "file": "trajectories/textra/closed_source.textra.task5.json",
+      "task_file": "tasks/textra/closed_source.textra.task5.json"
+    },
+    {
+      "task_id": "closed_source.true_phone.task1",
+      "app_id": "true_phone",
+      "app_version": "2.0.24-gp",
+      "step_count": 5,
+      "file": "trajectories/true_phone/closed_source.true_phone.task1.json",
+      "task_file": "tasks/true_phone/closed_source.true_phone.task1.json"
+    },
+    {
+      "task_id": "closed_source.true_phone.task2",
+      "app_id": "true_phone",
+      "app_version": "2.0.24-gp",
+      "step_count": 5,
+      "file": "trajectories/true_phone/closed_source.true_phone.task2.json",
+      "task_file": "tasks/true_phone/closed_source.true_phone.task2.json"
+    },
+    {
+      "task_id": "closed_source.true_phone.task3",
+      "app_id": "true_phone",
+      "app_version": "2.0.24-gp",
+      "step_count": 4,
+      "file": "trajectories/true_phone/closed_source.true_phone.task3.json",
+      "task_file": "tasks/true_phone/closed_source.true_phone.task3.json"
+    },
+    {
+      "task_id": "closed_source.true_phone.task4",
+      "app_id": "true_phone",
+      "app_version": "2.0.24-gp",
+      "step_count": 4,
+      "file": "trajectories/true_phone/closed_source.true_phone.task4.json",
+      "task_file": "tasks/true_phone/closed_source.true_phone.task4.json"
+    },
+    {
+      "task_id": "closed_source.true_phone.task5",
+      "app_id": "true_phone",
+      "app_version": "2.0.24-gp",
+      "step_count": 4,
+      "file": "trajectories/true_phone/closed_source.true_phone.task5.json",
+      "task_file": "tasks/true_phone/closed_source.true_phone.task5.json"
+    },
+    {
+      "task_id": "closed_source.vertical_gallery.task1",
+      "app_id": "vertical_gallery",
+      "app_version": "1.8.1",
+      "step_count": 4,
+      "file": "trajectories/vertical_gallery/closed_source.vertical_gallery.task1.json",
+      "task_file": "tasks/vertical_gallery/closed_source.vertical_gallery.task1.json"
+    },
+    {
+      "task_id": "closed_source.vertical_gallery.task2",
+      "app_id": "vertical_gallery",
+      "app_version": "1.8.1",
+      "step_count": 3,
+      "file": "trajectories/vertical_gallery/closed_source.vertical_gallery.task2.json",
+      "task_file": "tasks/vertical_gallery/closed_source.vertical_gallery.task2.json"
+    },
+    {
+      "task_id": "closed_source.vertical_gallery.task3",
+      "app_id": "vertical_gallery",
+      "app_version": "1.8.1",
+      "step_count": 3,
+      "file": "trajectories/vertical_gallery/closed_source.vertical_gallery.task3.json",
+      "task_file": "tasks/vertical_gallery/closed_source.vertical_gallery.task3.json"
+    },
+    {
+      "task_id": "closed_source.vertical_gallery.task4",
+      "app_id": "vertical_gallery",
+      "app_version": "1.8.1",
+      "step_count": 3,
+      "file": "trajectories/vertical_gallery/closed_source.vertical_gallery.task4.json",
+      "task_file": "tasks/vertical_gallery/closed_source.vertical_gallery.task4.json"
+    },
+    {
+      "task_id": "closed_source.vertical_gallery.task5",
+      "app_id": "vertical_gallery",
+      "app_version": "1.8.1",
+      "step_count": 4,
+      "file": "trajectories/vertical_gallery/closed_source.vertical_gallery.task5.json",
+      "task_file": "tasks/vertical_gallery/closed_source.vertical_gallery.task5.json"
+    },
+    {
+      "task_id": "closed_source.via_browser.task1",
+      "app_id": "via_browser",
+      "app_version": "7.3.3",
+      "step_count": 4,
+      "file": "trajectories/via_browser/closed_source.via_browser.task1.json",
+      "task_file": "tasks/via_browser/closed_source.via_browser.task1.json"
+    },
+    {
+      "task_id": "closed_source.via_browser.task2",
+      "app_id": "via_browser",
+      "app_version": "7.3.3",
+      "step_count": 4,
+      "file": "trajectories/via_browser/closed_source.via_browser.task2.json",
+      "task_file": "tasks/via_browser/closed_source.via_browser.task2.json"
+    },
+    {
+      "task_id": "closed_source.via_browser.task3",
+      "app_id": "via_browser",
+      "app_version": "7.3.3",
+      "step_count": 4,
+      "file": "trajectories/via_browser/closed_source.via_browser.task3.json",
+      "task_file": "tasks/via_browser/closed_source.via_browser.task3.json"
+    },
+    {
+      "task_id": "closed_source.via_browser.task4",
+      "app_id": "via_browser",
+      "app_version": "7.3.3",
+      "step_count": 4,
+      "file": "trajectories/via_browser/closed_source.via_browser.task4.json",
+      "task_file": "tasks/via_browser/closed_source.via_browser.task4.json"
+    },
+    {
+      "task_id": "closed_source.via_browser.task5",
+      "app_id": "via_browser",
+      "app_version": "7.3.3",
+      "step_count": 4,
+      "file": "trajectories/via_browser/closed_source.via_browser.task5.json",
+      "task_file": "tasks/via_browser/closed_source.via_browser.task5.json"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "guistudy_closed_source_gt_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.cx_file_explorer.task2",
+  "app_id": "cx_file_explorer",
+  "package_name": "com.cxinventor.file.explorer",
+  "app_version": "2.7.8",
+  "apk_sha256": "a29338669cf3ff0601fa1d2bb24071261384751d2bc3e5c32c5c8023903d3739",
+  "instruction": "Use CX File Explorer’s built-in Video Player for videos.",
+  "instruction_zh": "使用 CX File Explorer 的内置视频播放器播放视频。",
+  "step_count": 4,
+  "actions": [
+    {
+      "index": 1,
+      "action": "Open More options."
+    },
+    {
+      "index": 2,
+      "action": "Open Settings."
+    },
+    {
+      "index": 3,
+      "action": "Open CX built in apps settings."
+    },
+    {
+      "index": 4,
+      "action": "Enable the built in Video Player."
+    }
+  ]
+}

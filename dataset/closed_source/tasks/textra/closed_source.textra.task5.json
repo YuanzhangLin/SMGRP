@@ -1,0 +1,13 @@
+{
+  "schema_version": "guistudy_closed_source_task_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.textra.task5",
+  "app_id": "textra",
+  "package_name": "com.textra",
+  "app_version": "4.83",
+  "apk_sha256": "6645c02433dce3f03ad22517ac1c2ccdd0819d19042318f40157d763cfabf046",
+  "instruction": "Show web previews only for received messages.",
+  "instruction_zh": "仅为收到的消息显示网页预览。",
+  "gt_trajectory": "textra/closed_source.textra.task5.json",
+  "gt_step_count": 4
+}

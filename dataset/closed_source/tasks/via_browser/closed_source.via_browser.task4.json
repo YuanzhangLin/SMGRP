@@ -1,0 +1,13 @@
+{
+  "schema_version": "guistudy_closed_source_task_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.via_browser.task4",
+  "app_id": "via_browser",
+  "package_name": "mark.via.gp",
+  "app_version": "7.3.3",
+  "apk_sha256": "245e02eb1106dfd4d97d27f5bb68e97a2db9fe543f72ab93dc6b587b0e2da4fd",
+  "instruction": "Disable WebRTC in Via Browser.",
+  "instruction_zh": "在 Via 浏览器中禁用 WebRTC。",
+  "gt_trajectory": "via_browser/closed_source.via_browser.task4.json",
+  "gt_step_count": 4
+}

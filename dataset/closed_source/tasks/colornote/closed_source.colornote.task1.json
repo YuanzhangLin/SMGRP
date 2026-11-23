@@ -1,0 +1,13 @@
+{
+  "schema_version": "guistudy_closed_source_task_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.colornote.task1",
+  "app_id": "colornote",
+  "package_name": "com.socialnmobile.dictapps.notepad.color.note",
+  "app_version": "4.8.6",
+  "apk_sha256": "54c1580997e74bf85b70b04433166f288cdd5ad50feff1b847da383587c68362",
+  "instruction": "For the checklist titled 'Quarterly sql audit', set a time alarm for October 3, 2026 at 8:30 AM. Repeat it on the first Saturday of every month and end the repetition on December 31, 2026.",
+  "instruction_zh": "为标题为“Quarterly sql audit”的清单设置 2026 年 10 月 3 日上午 8:30 的定时提醒；每月第一个星期六重复，并于 2026 年 12 月 31 日结束重复。",
+  "gt_trajectory": "colornote/closed_source.colornote.task1.json",
+  "gt_step_count": 23
+}

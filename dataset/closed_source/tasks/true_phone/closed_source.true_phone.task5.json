@@ -1,0 +1,13 @@
+{
+  "schema_version": "guistudy_closed_source_task_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.true_phone.task5",
+  "app_id": "true_phone",
+  "package_name": "com.hb.dialer.free",
+  "app_version": "2.0.24-gp",
+  "apk_sha256": "9a040ea923034462abd82ccd99a8eca30b420fcef29130e90f1f0346ba1f2892",
+  "instruction": "Show the latest call duration in True Phone's recent calls list.",
+  "instruction_zh": "在 True Phone 的最近通话列表中显示最近一次通话时长。",
+  "gt_trajectory": "true_phone/closed_source.true_phone.task5.json",
+  "gt_step_count": 4
+}

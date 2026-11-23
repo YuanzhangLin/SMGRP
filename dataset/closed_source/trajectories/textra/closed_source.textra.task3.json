@@ -1,0 +1,30 @@
+{
+  "schema_version": "guistudy_closed_source_gt_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.textra.task3",
+  "app_id": "textra",
+  "package_name": "com.textra",
+  "app_version": "4.83",
+  "apk_sha256": "6645c02433dce3f03ad22517ac1c2ccdd0819d19042318f40157d763cfabf046",
+  "instruction": "Keep notifications from unknown contacts silent.",
+  "instruction_zh": "将陌生联系人消息的通知设为静音。",
+  "step_count": 4,
+  "actions": [
+    {
+      "index": 1,
+      "action": "Open the overflow menu."
+    },
+    {
+      "index": 2,
+      "action": "Open Textra settings."
+    },
+    {
+      "index": 3,
+      "action": "Open unknown contact choices."
+    },
+    {
+      "index": 4,
+      "action": "Select Silent."
+    }
+  ]
+}

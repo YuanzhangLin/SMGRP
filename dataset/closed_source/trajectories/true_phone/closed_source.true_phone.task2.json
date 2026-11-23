@@ -1,0 +1,34 @@
+{
+  "schema_version": "guistudy_closed_source_gt_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.true_phone.task2",
+  "app_id": "true_phone",
+  "package_name": "com.hb.dialer.free",
+  "app_version": "2.0.24-gp",
+  "apk_sha256": "9a040ea923034462abd82ccd99a8eca30b420fcef29130e90f1f0346ba1f2892",
+  "instruction": "Enable automatic day/night theme switching in True Phone.",
+  "instruction_zh": "在 True Phone 中开启自动日夜主题切换。",
+  "step_count": 5,
+  "actions": [
+    {
+      "index": 1,
+      "action": "Open the main menu."
+    },
+    {
+      "index": 2,
+      "action": "Open True Phone settings."
+    },
+    {
+      "index": 3,
+      "action": "Open Appearance settings."
+    },
+    {
+      "index": 4,
+      "action": "Open theme settings."
+    },
+    {
+      "index": 5,
+      "action": "Enable automatic day/night theme switching."
+    }
+  ]
+}

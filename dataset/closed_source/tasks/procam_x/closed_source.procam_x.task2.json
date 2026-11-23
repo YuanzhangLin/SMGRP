@@ -1,0 +1,13 @@
+{
+  "schema_version": "guistudy_closed_source_task_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.procam_x.task2",
+  "app_id": "procam_x",
+  "package_name": "com.intermedia.hd.camera.pro",
+  "app_version": "1.26",
+  "apk_sha256": "ecfe8b4b7bc42d161ebd21bc56d4206ae62e38105bb12b99bdd828d0a0ef5ded",
+  "instruction": "Keep each captured photo on screen for review in ProCam X.",
+  "instruction_zh": "在 ProCam X 拍照后保留照片预览以便检查。",
+  "gt_trajectory": "procam_x/closed_source.procam_x.task2.json",
+  "gt_step_count": 2
+}

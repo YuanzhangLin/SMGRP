@@ -1,0 +1,13 @@
+{
+  "schema_version": "guistudy_closed_source_task_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.business_calendar.task4",
+  "app_id": "business_calendar",
+  "package_name": "netgenius.bizcal",
+  "app_version": "1.6.1.5",
+  "apk_sha256": "ec0af745d94712659af4d9d467cc3c9c62a78a93781a8d75d318abbd3e6cb27b",
+  "instruction": "Hide both Saturday and Sunday in Month view.",
+  "instruction_zh": "在月视图中同时隐藏星期六和星期日。",
+  "gt_trajectory": "business_calendar/closed_source.business_calendar.task4.json",
+  "gt_step_count": 4
+}

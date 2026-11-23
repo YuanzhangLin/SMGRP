@@ -1,0 +1,26 @@
+{
+  "schema_version": "guistudy_closed_source_gt_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.business_calendar.task5",
+  "app_id": "business_calendar",
+  "package_name": "netgenius.bizcal",
+  "app_version": "1.6.1.5",
+  "apk_sha256": "ec0af745d94712659af4d9d467cc3c9c62a78a93781a8d75d318abbd3e6cb27b",
+  "instruction": "Hide week numbers in Month view while keeping them visible in Week view.",
+  "instruction_zh": "在月视图中隐藏周数，同时在周视图中保留周数显示。",
+  "step_count": 3,
+  "actions": [
+    {
+      "index": 1,
+      "action": "Open More options."
+    },
+    {
+      "index": 2,
+      "action": "Open Settings."
+    },
+    {
+      "index": 3,
+      "action": "Turn off Show Week Numbers for Month view."
+    }
+  ]
+}

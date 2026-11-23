@@ -1,0 +1,26 @@
+{
+  "schema_version": "guistudy_closed_source_gt_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.colornote.task4",
+  "app_id": "colornote",
+  "package_name": "com.socialnmobile.dictapps.notepad.color.note",
+  "app_version": "4.8.6",
+  "apk_sha256": "54c1580997e74bf85b70b04433166f288cdd5ad50feff1b847da383587c68362",
+  "instruction": "Remove only 'Verify checksum' from the checklist titled 'Release readiness'.",
+  "instruction_zh": "仅从标题为“Release readiness”的清单中删除“Verify checksum”。",
+  "step_count": 3,
+  "actions": [
+    {
+      "index": 1,
+      "action": "Open the checklist titled Release readiness."
+    },
+    {
+      "index": 2,
+      "action": "Enter checklist edit mode."
+    },
+    {
+      "index": 3,
+      "action": "Remove only the Verify checksum item."
+    }
+  ]
+}

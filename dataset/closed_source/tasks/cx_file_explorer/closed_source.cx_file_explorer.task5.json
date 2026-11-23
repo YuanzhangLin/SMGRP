@@ -1,0 +1,13 @@
+{
+  "schema_version": "guistudy_closed_source_task_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.cx_file_explorer.task5",
+  "app_id": "cx_file_explorer",
+  "package_name": "com.cxinventor.file.explorer",
+  "app_version": "2.7.8",
+  "apk_sha256": "a29338669cf3ff0601fa1d2bb24071261384751d2bc3e5c32c5c8023903d3739",
+  "instruction": "Use the Recycle Bin by default and show a confirmation before recycling files.",
+  "instruction_zh": "默认使用回收站，并在文件移入回收站前显示确认提示。",
+  "gt_trajectory": "cx_file_explorer/closed_source.cx_file_explorer.task5.json",
+  "gt_step_count": 4
+}

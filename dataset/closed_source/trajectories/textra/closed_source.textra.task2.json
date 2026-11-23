@@ -1,0 +1,26 @@
+{
+  "schema_version": "guistudy_closed_source_gt_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.textra.task2",
+  "app_id": "textra",
+  "package_name": "com.textra",
+  "app_version": "4.83",
+  "apk_sha256": "6645c02433dce3f03ad22517ac1c2ccdd0819d19042318f40157d763cfabf046",
+  "instruction": "Use the Enter key to send messages in Textra.",
+  "instruction_zh": "在 Textra 中使用回车键发送消息。",
+  "step_count": 3,
+  "actions": [
+    {
+      "index": 1,
+      "action": "Open the overflow menu."
+    },
+    {
+      "index": 2,
+      "action": "Open Textra settings."
+    },
+    {
+      "index": 3,
+      "action": "Enable Send using Enter."
+    }
+  ]
+}

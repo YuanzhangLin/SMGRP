@@ -1,0 +1,13 @@
+{
+  "schema_version": "guistudy_closed_source_task_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.cx_file_explorer.task3",
+  "app_id": "cx_file_explorer",
+  "package_name": "com.cxinventor.file.explorer",
+  "app_version": "2.7.8",
+  "apk_sha256": "a29338669cf3ff0601fa1d2bb24071261384751d2bc3e5c32c5c8023903d3739",
+  "instruction": "Use CX File Explorer’s built-in Music Player for audio.",
+  "instruction_zh": "使用 CX File Explorer 的内置音乐播放器播放音频。",
+  "gt_trajectory": "cx_file_explorer/closed_source.cx_file_explorer.task3.json",
+  "gt_step_count": 4
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": "guistudy_closed_source_task_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.poweramp.task2",
+  "app_id": "poweramp",
+  "package_name": "com.maxmpz.audioplayer",
+  "app_version": "2.0.10-build-860589-x86-play",
+  "apk_sha256": "448372ee3de9be878fc91771e7b419eb501134072a79e2d270eb7cc4e4765270",
+  "instruction": "Make Poweramp remove silence at the start and end of tracks.",
+  "instruction_zh": "让 Poweramp 剪掉曲目开头和结尾的静音。",
+  "gt_trajectory": "poweramp/closed_source.poweramp.task2.json",
+  "gt_step_count": 6
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": "guistudy_closed_source_task_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.true_phone.task1",
+  "app_id": "true_phone",
+  "package_name": "com.hb.dialer.free",
+  "app_version": "2.0.24-gp",
+  "apk_sha256": "9a040ea923034462abd82ccd99a8eca30b420fcef29130e90f1f0346ba1f2892",
+  "instruction": "Use the last tab you opened as True Phone's default tab.",
+  "instruction_zh": "将上次打开的标签页设为 True Phone 的默认标签页。",
+  "gt_trajectory": "true_phone/closed_source.true_phone.task1.json",
+  "gt_step_count": 5
+}

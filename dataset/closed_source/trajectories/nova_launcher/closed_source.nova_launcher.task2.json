@@ -1,0 +1,30 @@
+{
+  "schema_version": "guistudy_closed_source_gt_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.nova_launcher.task2",
+  "app_id": "nova_launcher",
+  "package_name": "com.teslacoilsw.launcher",
+  "app_version": "8.8.8",
+  "apk_sha256": "8de5bc8aa0654bf7b7f6abdf09f0c1f2a0c631744d4f37164ced0032b44f22ba",
+  "instruction": "Configure Nova so the keyboard opens automatically whenever the app drawer opens, while keeping Nova Search in Immersive mode.",
+  "instruction_zh": "配置 Nova，使每次打开应用抽屉时自动弹出键盘，同时保持 Nova 搜索为沉浸模式。",
+  "step_count": 4,
+  "actions": [
+    {
+      "index": 1,
+      "action": "open Nova Settings"
+    },
+    {
+      "index": 2,
+      "action": "search settings for keyboard"
+    },
+    {
+      "index": 3,
+      "action": "open the App drawer-scoped result"
+    },
+    {
+      "index": 4,
+      "action": "enable Show Keyboard"
+    }
+  ]
+}

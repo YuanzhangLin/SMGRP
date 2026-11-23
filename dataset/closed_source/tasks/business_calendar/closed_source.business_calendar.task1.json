@@ -1,0 +1,13 @@
+{
+  "schema_version": "guistudy_closed_source_task_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.business_calendar.task1",
+  "app_id": "business_calendar",
+  "package_name": "netgenius.bizcal",
+  "app_version": "1.6.1.5",
+  "apk_sha256": "ec0af745d94712659af4d9d467cc3c9c62a78a93781a8d75d318abbd3e6cb27b",
+  "instruction": "Set Sunday as the first day of the week.",
+  "instruction_zh": "将星期日设为每周的第一天。",
+  "gt_trajectory": "business_calendar/closed_source.business_calendar.task1.json",
+  "gt_step_count": 4
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "guistudy_closed_source_gt_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.colornote.task5",
+  "app_id": "colornote",
+  "package_name": "com.socialnmobile.dictapps.notepad.color.note",
+  "app_version": "4.8.6",
+  "apk_sha256": "54c1580997e74bf85b70b04433166f288cdd5ad50feff1b847da383587c68362",
+  "instruction": "Rename the checklist titled 'Release readiness' to 'Release readiness final' and add 'Sign release' as a new item.",
+  "instruction_zh": "将标题为“Release readiness”的清单重命名为“Release readiness final”，并新增一项“Sign release”。",
+  "step_count": 6,
+  "actions": [
+    {
+      "index": 1,
+      "action": "Open the checklist titled Release readiness."
+    },
+    {
+      "index": 2,
+      "action": "Enter checklist edit mode."
+    },
+    {
+      "index": 3,
+      "action": "Append final to the checklist title."
+    },
+    {
+      "index": 4,
+      "action": "Open Add Item."
+    },
+    {
+      "index": 5,
+      "action": "Enter Sign release as the new item."
+    },
+    {
+      "index": 6,
+      "action": "Confirm the new checklist item."
+    }
+  ]
+}

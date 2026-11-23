@@ -1,0 +1,38 @@
+{
+  "schema_version": "guistudy_closed_source_gt_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.poweramp.task2",
+  "app_id": "poweramp",
+  "package_name": "com.maxmpz.audioplayer",
+  "app_version": "2.0.10-build-860589-x86-play",
+  "apk_sha256": "448372ee3de9be878fc91771e7b419eb501134072a79e2d270eb7cc4e4765270",
+  "instruction": "Make Poweramp remove silence at the start and end of tracks.",
+  "instruction_zh": "让 Poweramp 剪掉曲目开头和结尾的静音。",
+  "step_count": 6,
+  "actions": [
+    {
+      "index": 1,
+      "action": "Open the player menu."
+    },
+    {
+      "index": 2,
+      "action": "Open Poweramp settings."
+    },
+    {
+      "index": 3,
+      "action": "Open Audio settings."
+    },
+    {
+      "index": 4,
+      "action": "Open fade and gapless settings."
+    },
+    {
+      "index": 5,
+      "action": "Enable Cut Silence."
+    },
+    {
+      "index": 6,
+      "action": "Leave the preference page so Poweramp commits the change."
+    }
+  ]
+}

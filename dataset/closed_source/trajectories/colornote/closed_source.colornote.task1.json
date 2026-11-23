@@ -1,0 +1,106 @@
+{
+  "schema_version": "guistudy_closed_source_gt_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.colornote.task1",
+  "app_id": "colornote",
+  "package_name": "com.socialnmobile.dictapps.notepad.color.note",
+  "app_version": "4.8.6",
+  "apk_sha256": "54c1580997e74bf85b70b04433166f288cdd5ad50feff1b847da383587c68362",
+  "instruction": "For the checklist titled 'Quarterly sql audit', set a time alarm for October 3, 2026 at 8:30 AM. Repeat it on the first Saturday of every month and end the repetition on December 31, 2026.",
+  "instruction_zh": "为标题为“Quarterly sql audit”的清单设置 2026 年 10 月 3 日上午 8:30 的定时提醒；每月第一个星期六重复，并于 2026 年 12 月 31 日结束重复。",
+  "step_count": 23,
+  "actions": [
+    {
+      "index": 1,
+      "action": "Open the checklist titled Quarterly sql audit."
+    },
+    {
+      "index": 2,
+      "action": "Open More."
+    },
+    {
+      "index": 3,
+      "action": "Open Reminder."
+    },
+    {
+      "index": 4,
+      "action": "Open the reminder type choices."
+    },
+    {
+      "index": 5,
+      "action": "Choose Time alarm."
+    },
+    {
+      "index": 6,
+      "action": "Open the reminder date."
+    },
+    {
+      "index": 7,
+      "action": "Move to October 2026."
+    },
+    {
+      "index": 8,
+      "action": "Choose October 3, 2026."
+    },
+    {
+      "index": 9,
+      "action": "Confirm the reminder date."
+    },
+    {
+      "index": 10,
+      "action": "Open the reminder time."
+    },
+    {
+      "index": 11,
+      "action": "Choose 8 o'clock."
+    },
+    {
+      "index": 12,
+      "action": "Choose 30 minutes."
+    },
+    {
+      "index": 13,
+      "action": "Choose AM."
+    },
+    {
+      "index": 14,
+      "action": "Confirm 8:30 AM."
+    },
+    {
+      "index": 15,
+      "action": "Open repetition choices."
+    },
+    {
+      "index": 16,
+      "action": "Choose monthly on the first Saturday."
+    },
+    {
+      "index": 17,
+      "action": "Open the repetition end date."
+    },
+    {
+      "index": 18,
+      "action": "Move the end date calendar to October 2026."
+    },
+    {
+      "index": 19,
+      "action": "Move the end date calendar to November 2026."
+    },
+    {
+      "index": 20,
+      "action": "Move the end date calendar to December 2026."
+    },
+    {
+      "index": 21,
+      "action": "Choose December 31, 2026."
+    },
+    {
+      "index": 22,
+      "action": "Confirm the repetition end date."
+    },
+    {
+      "index": 23,
+      "action": "Save the reminder."
+    }
+  ]
+}

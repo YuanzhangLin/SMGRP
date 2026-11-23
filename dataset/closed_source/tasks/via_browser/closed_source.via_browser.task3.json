@@ -1,0 +1,13 @@
+{
+  "schema_version": "guistudy_closed_source_task_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.via_browser.task3",
+  "app_id": "via_browser",
+  "package_name": "mark.via.gp",
+  "app_version": "7.3.3",
+  "apk_sha256": "245e02eb1106dfd4d97d27f5bb68e97a2db9fe543f72ab93dc6b587b0e2da4fd",
+  "instruction": "Tell Via Browser not to sell or share browsing data.",
+  "instruction_zh": "让 Via 浏览器不出售或共享浏览数据。",
+  "gt_trajectory": "via_browser/closed_source.via_browser.task3.json",
+  "gt_step_count": 4
+}

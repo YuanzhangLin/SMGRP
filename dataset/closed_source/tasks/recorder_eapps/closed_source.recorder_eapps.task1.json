@@ -1,0 +1,13 @@
+{
+  "schema_version": "guistudy_closed_source_task_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.recorder_eapps.task1",
+  "app_id": "recorder_eapps",
+  "package_name": "com.pawegio.recandsave",
+  "app_version": "2.1.4",
+  "apk_sha256": "279c15b3d5d4ae6ee0c7a66934f7b313af2683d8fd3d581b2ae4d2f498faebed",
+  "instruction": "Use 16,000 Hz as Recorder’s sample rate.",
+  "instruction_zh": "将 Recorder 的采样率设为 16,000 Hz。",
+  "gt_trajectory": "recorder_eapps/closed_source.recorder_eapps.task1.json",
+  "gt_step_count": 4
+}

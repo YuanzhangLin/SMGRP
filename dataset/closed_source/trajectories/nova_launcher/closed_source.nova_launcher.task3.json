@@ -1,0 +1,42 @@
+{
+  "schema_version": "guistudy_closed_source_gt_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.nova_launcher.task3",
+  "app_id": "nova_launcher",
+  "package_name": "com.teslacoilsw.launcher",
+  "app_version": "8.8.8",
+  "apk_sha256": "8de5bc8aa0654bf7b7f6abdf09f0c1f2a0c631744d4f37164ced0032b44f22ba",
+  "instruction": "Use a vertically scrolling app drawer and show frequently used shortcuts at its top.",
+  "instruction_zh": "将应用抽屉设为垂直滚动，并在顶部显示常用快捷方式。",
+  "step_count": 7,
+  "actions": [
+    {
+      "index": 1,
+      "action": "open nova settings"
+    },
+    {
+      "index": 2,
+      "action": "open app drawer"
+    },
+    {
+      "index": 3,
+      "action": "locate drawer style"
+    },
+    {
+      "index": 4,
+      "action": "open style options"
+    },
+    {
+      "index": 5,
+      "action": "select vertical"
+    },
+    {
+      "index": 6,
+      "action": "locate frequent shortcuts"
+    },
+    {
+      "index": 7,
+      "action": "enable frequent shortcuts"
+    }
+  ]
+}

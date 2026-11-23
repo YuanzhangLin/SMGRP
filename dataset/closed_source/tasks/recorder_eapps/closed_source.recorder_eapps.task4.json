@@ -1,0 +1,13 @@
+{
+  "schema_version": "guistudy_closed_source_task_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.recorder_eapps.task4",
+  "app_id": "recorder_eapps",
+  "package_name": "com.pawegio.recandsave",
+  "app_version": "2.1.4",
+  "apk_sha256": "279c15b3d5d4ae6ee0c7a66934f7b313af2683d8fd3d581b2ae4d2f498faebed",
+  "instruction": "Do not ask to rename files after recording in Recorder.",
+  "instruction_zh": "关闭 Recorder 的“录音后重命名文件”选项。",
+  "gt_trajectory": "recorder_eapps/closed_source.recorder_eapps.task4.json",
+  "gt_step_count": 3
+}

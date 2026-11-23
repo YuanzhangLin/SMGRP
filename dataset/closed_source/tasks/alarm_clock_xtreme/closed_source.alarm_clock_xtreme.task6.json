@@ -1,0 +1,13 @@
+{
+  "schema_version": "guistudy_closed_source_task_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.alarm_clock_xtreme.task6",
+  "app_id": "alarm_clock_xtreme",
+  "package_name": "com.alarmclock.xtreme.free",
+  "app_version": "24.16.4",
+  "apk_sha256": "bdf42371b7a2f7b0cc3aeba81d51f984a57d3011e2bff0e488dce56d41556026",
+  "instruction": "Disable prioritized alarm volume for the GT Sound Priority alarm.",
+  "instruction_zh": null,
+  "gt_trajectory": "alarm_clock_xtreme/closed_source.alarm_clock_xtreme.task6.json",
+  "gt_step_count": 7
+}

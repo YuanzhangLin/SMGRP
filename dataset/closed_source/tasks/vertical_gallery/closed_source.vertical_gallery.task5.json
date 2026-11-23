@@ -1,0 +1,13 @@
+{
+  "schema_version": "guistudy_closed_source_task_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.vertical_gallery.task5",
+  "app_id": "vertical_gallery",
+  "package_name": "com.mobsnake.verticalgallery",
+  "app_version": "1.8.1",
+  "apk_sha256": "9a9ab23b4b37ba5f1fa6dcb52349328bbea47896b875f3501bc40866d1194b7e",
+  "instruction": "Use a gray background in the gallery.",
+  "instruction_zh": "将图库背景颜色设为灰色。",
+  "gt_trajectory": "vertical_gallery/closed_source.vertical_gallery.task5.json",
+  "gt_step_count": 4
+}

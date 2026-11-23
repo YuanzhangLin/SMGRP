@@ -1,0 +1,13 @@
+{
+  "schema_version": "guistudy_closed_source_task_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.nova_launcher.task5",
+  "app_id": "nova_launcher",
+  "package_name": "com.teslacoilsw.launcher",
+  "app_version": "8.8.8",
+  "apk_sha256": "8de5bc8aa0654bf7b7f6abdf09f0c1f2a0c631744d4f37164ced0032b44f22ba",
+  "instruction": "Place the Home screen search bar below the dock icons without disabling automatic keyboard opening in the app drawer.",
+  "instruction_zh": "将主屏幕搜索栏放到程序坞图标下方，同时保持打开应用抽屉时自动弹出键盘。",
+  "gt_trajectory": "nova_launcher/closed_source.nova_launcher.task5.json",
+  "gt_step_count": 5
+}

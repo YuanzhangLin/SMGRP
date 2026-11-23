@@ -1,0 +1,22 @@
+{
+  "schema_version": "guistudy_closed_source_gt_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.procam_x.task1",
+  "app_id": "procam_x",
+  "package_name": "com.intermedia.hd.camera.pro",
+  "app_version": "1.26",
+  "apk_sha256": "ecfe8b4b7bc42d161ebd21bc56d4206ae62e38105bb12b99bdd828d0a0ef5ded",
+  "instruction": "Turn off the camera shutter sound in ProCam X.",
+  "instruction_zh": "在 ProCam X 中关闭相机快门声音。",
+  "step_count": 2,
+  "actions": [
+    {
+      "index": 1,
+      "action": "Open ProCam X settings."
+    },
+    {
+      "index": 2,
+      "action": "Turn off the camera shutter sound."
+    }
+  ]
+}

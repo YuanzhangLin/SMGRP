@@ -1,0 +1,38 @@
+{
+  "schema_version": "guistudy_closed_source_gt_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.poweramp.task1",
+  "app_id": "poweramp",
+  "package_name": "com.maxmpz.audioplayer",
+  "app_version": "2.0.10-build-860589-x86-play",
+  "apk_sha256": "448372ee3de9be878fc91771e7b419eb501134072a79e2d270eb7cc4e4765270",
+  "instruction": "Disable fading when playback starts, pauses, or stops in Poweramp.",
+  "instruction_zh": "关闭 Poweramp 在开始播放、暂停或停止时的淡入淡出。",
+  "step_count": 6,
+  "actions": [
+    {
+      "index": 1,
+      "action": "Open the player menu."
+    },
+    {
+      "index": 2,
+      "action": "Open Poweramp settings."
+    },
+    {
+      "index": 3,
+      "action": "Open Audio settings."
+    },
+    {
+      "index": 4,
+      "action": "Open fade and gapless settings."
+    },
+    {
+      "index": 5,
+      "action": "Disable fading on play, pause, and stop."
+    },
+    {
+      "index": 6,
+      "action": "Leave the preference page so Poweramp commits the change."
+    }
+  ]
+}

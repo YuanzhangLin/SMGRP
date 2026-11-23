@@ -1,0 +1,13 @@
+{
+  "schema_version": "guistudy_closed_source_task_v1",
+  "dataset": "ClosedSource",
+  "task_id": "closed_source.business_calendar.task3",
+  "app_id": "business_calendar",
+  "package_name": "netgenius.bizcal",
+  "app_version": "1.6.1.5",
+  "apk_sha256": "ec0af745d94712659af4d9d467cc3c9c62a78a93781a8d75d318abbd3e6cb27b",
+  "instruction": "Make tapping a Month-view popup open Multi-Day View.",
+  "instruction_zh": "点击月视图弹窗后打开多日视图。",
+  "gt_trajectory": "business_calendar/closed_source.business_calendar.task3.json",
+  "gt_step_count": 4
+}
